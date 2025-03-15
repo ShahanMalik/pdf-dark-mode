@@ -18,8 +18,8 @@
     </ol>
     <h2>Usage Steps:</h2>
     <ol>
-        <li>Open the Quizlet website.</li>
-        <li>If the popup and blur are not immediately removed, try scrolling the webpage. The extension will automatically remove the popup and blur as you interact with the page.</li>
+        <li>Open pdf.</li>
+        <li>Press on extension icon and enable it.</li>
     </ol>
 </body>
 </html>
